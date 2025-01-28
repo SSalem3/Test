@@ -13,7 +13,6 @@
             "domain"
         ],
         "description": "Fetch Hybrid Analysis reports associated with hashes and filenames.",
-        "command": "HybridAnalysisv2/HybridAnalysisv2_analyzer.py",
         "baseConfig": "HybridAnalysis",
         "configurationItems": [
             {
