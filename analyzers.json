@@ -3,7 +3,7 @@
         "name": "HybridAnalysisv2_GetReport",
         "version": "1.0",
         "author": "Daniil Yugoslavskiy, Tieto",
-        "url": "https://github.com/TheHive-Project/Cortex-Analyzers",
+        "url": "https://github.com/SSalem3/Test",
         "license": "AGPL-V3",
         "dataTypeList": [
             "hash",
@@ -29,7 +29,7 @@
         "name": "Custom_IP-API",
         "version": "1.0",
         "author": "Peter Juhas",
-        "url": "https://github.com/pjuhas/Cortex-Analyzers",
+        "url": "https://github.com/SSalem3/Test",
         "license": "AGPL-V3",
         "description": "Check IP address or domain using ip-api.com",
         "dataTypeList": [
